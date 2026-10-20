@@ -1,0 +1,3 @@
+#elvárt kimenet
+SUCCESS
+Unknown firing mode: 'AUTO'
