@@ -1,0 +1,3 @@
+#elvárt eredmény
+SUCCESS
+SUCCESS

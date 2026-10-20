@@ -1,0 +1,4 @@
+#Van legalább egy hajónk
+GT4500,1,0,1,0
+#Helytelen tüzelési parancs
+TORPEDO,AUTO
